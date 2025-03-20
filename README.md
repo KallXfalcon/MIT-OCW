@@ -1,1 +1,1 @@
-# MIT-OCW
+# MiT OpenCourseWare
